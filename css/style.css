@@ -161,4 +161,11 @@ p{
     .text-content{
         padding: 9% 7%;
     }
+    .pay-btn{
+        width: 200px;
+    }
+    .image{
+        max-width: 100%;
+    height: auto;
+    }
 }
