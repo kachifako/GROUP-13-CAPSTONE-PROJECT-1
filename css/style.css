@@ -163,7 +163,7 @@ p{
     }
     .pay-btn{
         padding: 12px ;
-        
+        margin: 12px;
         max-width: 320px;
     }
     .image{
